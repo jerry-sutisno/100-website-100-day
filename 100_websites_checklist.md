@@ -1,0 +1,102 @@
+# 100 Websites in 100 Days — Checklist
+Centang [x] jika website sudah selesai.
+- [ ] **1. Personal Landing Page** — Landing page sederhana berisi bio, foto, dan kontak.
+- [ ] **2. Simple Portfolio** — Website portfolio untuk menampilkan proyek.
+- [ ] **3. Static Blog** — Blog statis untuk menulis artikel.
+- [ ] **4. To-do List** — Aplikasi to-do sederhana dengan local storage.
+- [ ] **5. Interactive CV** — CV online yang bisa di-print ke PDF.
+- [ ] **6. Quote Generator** — Aplikasi menampilkan quote acak.
+- [ ] **7. Contact Form** — Form kontak yang bisa kirim email.
+- [ ] **8. Tip Calculator** — Kalkulator tip atau patungan.
+- [ ] **9. Pomodoro Timer** — Timer pomodoro untuk fokus kerja.
+- [ ] **10. Coming Soon Generator** — Template website coming soon.
+- [ ] **11. Weather App Lite** — Aplikasi cuaca sederhana.
+- [ ] **12. Recipe Randomizer** — Website rekomendasi resep acak.
+- [ ] **13. URL Shortener** — Layanan pemendek URL.
+- [ ] **14. Quiz App** — Aplikasi kuis dengan skor.
+- [ ] **15. Expense Tracker** — Pencatat pengeluaran harian.
+- [ ] **16. Habit Tracker** — Pelacak kebiasaan harian.
+- [ ] **17. Countdown Page** — Hitung mundur ke tanggal event.
+- [ ] **18. Image Gallery** — Galeri gambar dengan modal.
+- [ ] **19. Markdown Editor** — Editor markdown dengan preview.
+- [ ] **20. Searchable FAQ** — Halaman FAQ dengan pencarian.
+- [ ] **21. Contact List** — Manajemen daftar kontak.
+- [ ] **22. Notes App** — Aplikasi catatan pribadi.
+- [ ] **23. RSS Reader** — Pembaca RSS feed.
+- [ ] **24. Recipe Builder** — Pembuat resep + daftar belanja.
+- [ ] **25. Job Board** — Website daftar lowongan kerja.
+- [ ] **26. Event RSVP Page** — Halaman RSVP event.
+- [ ] **27. Image Compressor** — Kompresor gambar online.
+- [ ] **28. Pomodoro Analytics** — Pomodoro dengan statistik.
+- [ ] **29. Chat UI Mock** — Mock UI aplikasi chat.
+- [ ] **30. Map with Markers** — Peta dengan penanda lokasi.
+- [ ] **31. Guestbook** — Buku tamu online.
+- [ ] **32. Link-in-bio Manager** — Manajer link bio.
+- [ ] **33. Polling App** — Aplikasi polling/voting.
+- [ ] **34. Bookmark Manager** — Manajemen bookmark.
+- [ ] **35. E-card Sender** — Kartu ucapan digital.
+- [ ] **36. File Uploader** — Upload file + preview.
+- [ ] **37. URL Status Checker** — Cek status website.
+- [ ] **38. Auth Contact Manager** — Kontak manager dengan login.
+- [ ] **39. Shareable Notes** — Catatan dengan share link.
+- [ ] **40. Analytics Dashboard** — Dashboard analytics sederhana.
+- [ ] **41. Business Directory** — Direktori bisnis lokal.
+- [ ] **42. Microblog** — Microblogging sederhana.
+- [ ] **43. Event Calendar** — Kalender event.
+- [ ] **44. Marketplace Listing** — Listing marketplace.
+- [ ] **45. Study Group Timer** — Timer belajar kelompok.
+- [ ] **46. E-book Reader** — Pembaca e-book online.
+- [ ] **47. Course Landing Page** — Landing page kursus.
+- [ ] **48. Interview Prep Quiz** — Kuis persiapan interview.
+- [ ] **49. Group Expense Splitter** — Split bill untuk grup.
+- [ ] **50. Flashcards App** — Flashcard belajar.
+- [ ] **51. OAuth Demo** — Demo OAuth login.
+- [ ] **52. Real Weather App** — Aplikasi cuaca real API.
+- [ ] **53. Currency Converter** — Konverter mata uang.
+- [ ] **54. Movie Search App** — Pencarian film.
+- [ ] **55. Podcast Player** — Pemutar podcast.
+- [ ] **56. Image Search App** — Pencarian gambar API.
+- [ ] **57. Social Feed Viewer** — Viewer feed sosial.
+- [ ] **58. Routing Maps** — Peta dengan rute.
+- [ ] **59. Stock Ticker** — Ticker saham.
+- [ ] **60. Newsletter Signup** — Signup newsletter.
+- [ ] **61. Project Task Manager** — Task manager proyek.
+- [ ] **62. CMS Blog** — Blog dengan CMS.
+- [ ] **63. Forum App** — Forum diskusi.
+- [ ] **64. Booking Scheduler** — Sistem booking jadwal.
+- [ ] **65. E-commerce Product Page** — Halaman produk e-commerce.
+- [ ] **66. Mock Checkout Flow** — Simulasi checkout.
+- [ ] **67. Mini LMS** — Mini LMS.
+- [ ] **68. Real-time Chat App** — Chat real-time.
+- [ ] **69. Collaborative Notes** — Catatan kolaboratif.
+- [ ] **70. Kanban Board** — Kanban board.
+- [ ] **71. Searchable Recipe Site** — Website resep dengan search.
+- [ ] **72. Media Streaming Demo** — Demo streaming media.
+- [ ] **73. PWA Todo App** — PWA todo offline.
+- [ ] **74. SaaS Landing + Auth** — SaaS landing + auth.
+- [ ] **75. Multi-tenant App** — Aplikasi multi-tenant.
+- [ ] **76. Analytics Platform** — Platform analytics.
+- [ ] **77. Collaborative Editor** — Editor kolaboratif real-time.
+- [ ] **78. Custom CMS** — CMS custom.
+- [ ] **79. Job Tracker** — Tracker lamaran kerja.
+- [ ] **80. Inventory Manager** — Manajemen inventori.
+- [ ] **81. Uptime Monitor** — Monitoring uptime.
+- [ ] **82. Resume Parser** — Parser CV.
+- [ ] **83. Payments & Subscriptions** — Subscription & payment.
+- [ ] **84. Recommendation Engine** — Sistem rekomendasi.
+- [ ] **85. GraphQL API** — GraphQL API demo.
+- [ ] **86. Data Visualization Hub** — Visualisasi data.
+- [ ] **87. Access Control System** — Sistem role & akses.
+- [ ] **88. CI/CD Demo** — Demo CI/CD.
+- [ ] **89. Microservices Demo** — Demo microservices.
+- [ ] **90. Search Engine** — Search engine mini.
+- [ ] **91. Full Marketplace** — Marketplace lengkap.
+- [ ] **92. Advanced Analytics** — Analytics lanjutan.
+- [ ] **93. AI Note Assistant** — Asisten catatan AI.
+- [ ] **94. Multi-language Platform** — Website multi bahasa.
+- [ ] **95. Mobile Web App** — Mobile-first web app.
+- [ ] **96. Accessibility-first Portal** — Portal aksesibilitas.
+- [ ] **97. Enterprise Dashboard** — Dashboard enterprise.
+- [ ] **98. Mini Social Network** — Mini social network.
+- [ ] **99. SaaS MVP** — SaaS MVP lengkap.
+- [ ] **100. Portfolio Hub** — Portal portfolio final.
