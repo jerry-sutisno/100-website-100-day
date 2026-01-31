@@ -1,6 +1,6 @@
 # 100 Websites in 100 Days — Checklist
 Centang [x] jika website sudah selesai.
-- [ ] **1. Personal Landing Page** — Landing page sederhana berisi bio, foto, dan kontak.
+- [X] **1. Personal Landing Page** — Landing page sederhana berisi bio, foto, dan kontak.
 - [ ] **2. Simple Portfolio** — Website portfolio untuk menampilkan proyek.
 - [ ] **3. Static Blog** — Blog statis untuk menulis artikel.
 - [ ] **4. To-do List** — Aplikasi to-do sederhana dengan local storage.
